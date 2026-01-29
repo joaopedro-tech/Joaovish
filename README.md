@@ -1,6 +1,6 @@
 # Olá! eu sou João Pedro
 
-- Atualmente estou estudando sobre Java e Javascript para desenvolvimente, também foco no mercado economico na area de investimentos pré-fixados, fixados e inváriaveis, além de inglês.
+- Atualmente estou estudando sobre Java e Javascript para desenvolvimente, além de inglês.
 - Estou em busca de passar em uma faculdade, desenvolvimento pessoal e ampliamento economico.
 - canais de contato: youtube, instagram, linkedin
 
@@ -13,7 +13,7 @@
 
 ## Minhas Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,java,mysql,powershell,react,nodejs)](https://skillicons.dev)
 
 
 
