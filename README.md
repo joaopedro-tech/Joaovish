@@ -8,8 +8,14 @@
 
 ## Minhas estatísticas
 
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joao-tech&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
 ## Minhas Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c)](https://skillicons.dev)
+
+
+
   
   
